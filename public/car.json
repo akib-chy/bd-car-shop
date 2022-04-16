@@ -1,0 +1,72 @@
+[
+  {
+    "img": "../public/img/car1.jpg",
+    "id": 1,
+    "name": "Limousine",
+    "price": "80000",
+    "description": "If you are looking for a luxury car, then Limousine is a perfect choice for you. The features in these cars are designed in such a way that they fulfil all the glamorous needs. The outer body is sleek and has luxurious compartments inside, making it one of the expensive vehicles. These cars have a separate area for the driver, and the passengers have a different domain with the partition between the two. Toyota century, Hyundai Equus limousine, Great wall hover, Chrysler 300 limousine are some of the limousines in production."
+  },
+  {
+    "id": 2,
+    "name": "Convertibles",
+    "price": "40000",
+    "description": "There are many types of sports cars available in the market, like Convertibles, Hot hatch, Grand tourer, Sports saloon, Pony car, etc. Some of the famous cars that are luxurious are Convertibles or Cabriolet. The feature that makes it accessible is that it can be converted into an open-air vehicle. But with modern technology, many improvements have been made. Some convertibles use automatic hydraulic or electrical actuators that make everything intuitive. Ferrari California, Honda S 200, BMW M 3, Mazda M X-5, Volvo C 70 are some well-known convertibles.",
+    "img": "../src/image/car-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Micro Car",
+    "price": "20000",
+    "description": "If you are looking for a luxury car, then Limousine is a perfect choice for you. The features in these cars are designed in such a way that they fulfil all the glamorous needs. The outer body is sleek and has luxurious compartments inside, making it one of the expensive vehicles. These cars have a separate area for the driver, and the passengers have a different domain with the partition between the two. Toyota century, Hyundai Equus limousine, Great wall hover, Chrysler 300 limousine are some of the limousines in production.",
+    "img": "../src/image/car-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "City Cars",
+    "price": "60000",
+    "description": "The urban areas are the best places to be using City cars. These types of vehicles are much safer, have better speed and capacity when compared to microcars. These cars can easily reach the speed of any highway as they are built in such form, but not to be used for that purpose as it can be dangerous. Also known as Kei cars in Japan, and it is the country that uses this type of city cars. Suzuki Cervo, Honda Life, Fiat Panda are some of the best examples of city cars.",
+    "img": "../src/image/car-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hatchbacks",
+    "price": "50000",
+    "description": "Hatchbacks are the type of cars that are ideal for people who want bigger seating capacity along with enough boot space to store their luggage. These cars are much more prominent in size and have much higher ability than the small cars available in the market. The hatchbacks come with multiple configurations that have four or five doors. These cars are designed in such a way that it has two-box design and has interiors that are much more flexible. There is a shared space for passengers and cargo in these types of vehicles that are very popular in Asian countries.",
+    "img": "../src/image/car-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sports Utility Vehicles",
+    "price": "80000",
+    "description": "Sports Utility Vehicles or otherwise called SUV. Every country has a different use for these types of cars, and there are broader definitions of SUV available all over the world. The design of these cars is done in such a way that the significant utilization of these types of vehicles is done in off-road purposes. SUV has a boxy body design that is upright and has higher ground clearance. The design of these SUVs is unique and sleek, making it a stylish choice for many. Some of the best products available on the market are Landrover Discovery, Jeep Patriot, Toyota FJ Cruiser, etc.",
+    "img": "../src/image/car-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sedans",
+    "price": "80000",
+    "description": "Sedans are built with a powerful engine and popularly used as a family car. Having a separate space for the engine, passenger, and cargo is the speciality of these cars that are of three-box configuration—along with a large trunk for luggage storage with comfortable seaters, making it the best choice for a family. Sedans are segregated into types based on the styling of their body such as Notchback, Sedanette, Hardtop, Fastback, Close-coupled, Club, Convertible.",
+    "img": "../src/image/car-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Subcompact Cars",
+    "price": "64000",
+    "description": "Subcompact cars, as the name suggests, have a combined area for cargo and interiors with four to five doors. It is a comfortable vehicle that can seat four to five passengers. The length of these cars is typically 3900 mm to 4200mm long. The manufacturers of many companies are producing premium subcompact vehicles that come at an affordable price. Some of the best subcompact cars available in the market are Peugeot 208, Opel Corsa, etc.",
+    "img": "../src/image/car-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Family Cars",
+    "price": "74000",
+    "description": "A more extended version of any standard saloon cars or hatchbacks is called a Family car. This type of vehicle is ideal for people who have large families. Since the size of the vehicle is large, it may cause trouble when you move around in small areas, so it is better to take a test drive before you purchase this vehicle. Designs of these cars vary and can comfortably accommodate five to six people and have an engine capacity of 1.4 to 2.5 litres. Some of the popular ones in the market are Volkswagen Golf, Toyota Auris, etc.",
+    "img": "../src/image/car-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Estate Cars",
+    "price": "75000",
+    "description": "Another variant of sedan or saloon with an extension of roof rearward is called Estate cars or Station wagons. Two-door wagons, Full-size wagons, All-steel wagons are some of the types of caravans available in the market. The station wagon has a large cargo area and a two-box design. Though the plan of the cabs has a system similar to the hatchback, the carriages are much longer, providing extra space for cargo. The design of these vehicles are comfortable, and the interiors can be reconfigured with fold-down rear seats according to the priority of the passengers.",
+    "img": "../src/image/car-10.jpg"
+  }
+]
