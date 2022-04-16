@@ -1,6 +1,7 @@
 import "./App.css";
 import AllCars from "./Pages/Home/AllCars/AllCars";
 import Home from "./Pages/Home/Home";
+import Footer from "./Pages/Shared/Footer/Footer";
 import Header from "./Pages/Shared/Header/Header";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Home />
       <AllCars />
+      <Footer />
     </div>
   );
 }
