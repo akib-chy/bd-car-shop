@@ -9,7 +9,7 @@ const AllCars = () => {
       .then((data) => setCars(data));
   }, []);
   return (
-    <div className="container mt-4">
+    <div className="container mt-4 text-center">
       <div className="row ">
         {cars.map((car) => (
           <SingleCar key={car.id} car={car}></SingleCar>

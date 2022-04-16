@@ -3,6 +3,7 @@ import { Carousel } from "react-bootstrap";
 import baner1 from "../../image/banner-1.jpg";
 import baner2 from "../../image/banner-2.jpg";
 import baner3 from "../../image/banner-3.jpg";
+import AllCars from "./AllCars/AllCars";
 
 const Home = () => {
   return (
@@ -49,6 +50,7 @@ const Home = () => {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+      <AllCars />
     </div>
   );
 };
